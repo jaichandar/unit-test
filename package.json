@@ -1,0 +1,30 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "unit test cases for problems",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaichandar/unit-test.git"
+  },
+  "keywords": [
+    "unit",
+    "test",
+    "test",
+    "cases"
+  ],
+  "author": "Jaichandar D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaichandar/unit-test/issues"
+  },
+  "homepage": "https://github.com/jaichandar/unit-test#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.9"
+  }
+}
